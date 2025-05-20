@@ -1,13 +1,14 @@
-name: 提取并去重文本
+name: Extract and Deduplicate Text
 
 on:
-  workflow_dispatch:  # 允许手动触发
+  workflow_dispatch:  # Allow manual triggering
   schedule:
-    - cron: '0 0 * * *'  # 每天UTC时间0点自动运行
+    - cron: '0 0 * * *'  # Run daily at midnight UTC
 
 jobs:
-  提取任务:
-    runs-on: ubuntu-latest  # 使用最新版Ubuntu系统
+  extract_data:  # 使用英文标识符
+    name: 提取并去重数据  # 这里可以使用中文显示名称
+    runs-on: ubuntu-latest
     
     steps:
     - name: 检出仓库
@@ -16,7 +17,7 @@ jobs:
     - name: 设置Python环境
       uses: actions/setup-python@v4
       with:
-        python-version: '3.10'  # 使用Python 3.10
+        python-version: '3.10'
         
     - name: 安装依赖
       run: |
