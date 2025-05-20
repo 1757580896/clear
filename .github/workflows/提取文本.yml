@@ -1,18 +1,27 @@
 name: Extract and Deduplicate Text
 
 on:
-  workflow_dispatch:  # Allow manual triggering
+  workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *'  # Run daily at midnight UTC
+    - cron: '0 0 * * *'
 
 jobs:
-  extract_data:  # 使用英文标识符
-    name: 提取并去重数据  # 这里可以使用中文显示名称
+  extract_data:
+    name: 提取并去重数据
     runs-on: ubuntu-latest
     
+    # 添加权限设置
+    permissions:
+      contents: write  # 允许工作流写入内容
+      
     steps:
     - name: 检出仓库
       uses: actions/checkout@v3
+      with:
+        # 使用个人访问令牌(PAT)检出
+        token: ${{ secrets.GITHUB_TOKEN }}
+      
+    # ... 其他步骤保持不变 ...
       
     - name: 设置Python环境
       uses: actions/setup-python@v4
