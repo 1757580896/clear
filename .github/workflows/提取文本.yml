@@ -1,4 +1,4 @@
-name: Extract and Deduplicate Text
+name: 提取电视频道名称
 
 on:
   workflow_dispatch:
@@ -6,22 +6,19 @@ on:
     - cron: '0 0 * * *'
 
 jobs:
-  extract_data:
-    name: 提取并去重数据
+  extract_channels:
+    name: 提取并处理频道列表
     runs-on: ubuntu-latest
-    
+
     # 添加权限设置
     permissions:
-      contents: write  # 允许工作流写入内容
+      contents: write # 允许工作流写入内容解决403问题
       
     steps:
     - name: 检出仓库
       uses: actions/checkout@v3
       with:
-        # 使用个人访问令牌(PAT)检出
         token: ${{ secrets.GITHUB_TOKEN }}
-      
-    # ... 其他步骤保持不变 ...
       
     - name: 设置Python环境
       uses: actions/setup-python@v4
@@ -40,6 +37,6 @@ jobs:
       run: |
         git config --global user.name "GitHub Actions"
         git config --global user.email "actions@github.com"
-        git add extract_text.py 提取结果.txt
-        git commit -m "更新提取结果" || echo "没有变化需要提交"
-        git push
+        git add extract_text.py 频道列表.txt
+        git commit -m "自动更新频道列表 [skip ci]" || echo "没有变化需要提交"
+        git push https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
