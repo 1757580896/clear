@@ -30,6 +30,9 @@ CBS 11 Houston TX (KHOU) (1080p)
 CBS 9 Washington DC (WUSA) (1080p)
 CBS News
 CCTV1港澳版
+CH5
+CH8
+CHU
 Caillou (ES)
 Caillou (FR)
 Cartoon Network 动漫
@@ -164,15 +167,16 @@ Super Simple Songs (EU)
 TBS
 TBS East (1080p)
 TVB Finance Sports & Information Channel
+TVB J1
 TVB News Channel
 TVB PLUS
 TVB Plus
 TVB Plus TWN
-TVBJ1
 TVBS新聞
 TVB千禧经典
 TVB娱乐新闻台
-TVB星河频道
+TVB星河
+TVB生活台
 Tastemade
 Tastemade other
 Tayo
@@ -189,8 +193,10 @@ Turner Classic Movies (TCM) East (720p)
 UN Web TV
 Unbeaten
 Unreel (EU)
+VIUTV
 ViuTV
-ViuTVSix
+ViuTV TWN
+ViuTVSix TWN
 ViuTVsix
 WMAQ-DT1 NBC 5 (Chicago IL) (720p)
 WOLO-DT1 ABC 25 (Columbia SC) (720p)
@@ -212,18 +218,16 @@ tvN
 凤凰资讯
 凤凰香港
 凤凰香港TWN
+千禧经典台
 华丽翡翠台
-天映电影
 天映经典
+天映频道
 广东体育
 广东珠江
 无线新闻台
 无线新闻台TWN
-无线明珠台
-无线明珠台TWN
-无线翡翠
-无线翡翠4k
 明珠台
+明珠台TWN
 澳视卫星
 澳视澳门
 澳门莲花电影
@@ -235,14 +239,17 @@ tvN
 美亞電影台(HK)
 翡翠台
 翡翠台4K
-翡翠台HL
 翡翠台TWN
 翡翠台北美版(TVB J1)
 耀才財經台 (576p)
 重温经典
-香港RTHK33
-香港RTHK34
-香港RTHK35
 鳳凰中文
 鳳凰資訊
 鳳凰香港
+龙华偶像
+龙华卡通
+龙华戏剧
+龙华日韩
+龙华洋片
+龙华电影
+龙华经典
