@@ -5,12 +5,10 @@ ABC 16 Wilkes Barre PA (WNEP) (1080p)
 ABC 8 Dallas TX (WFAA) (1080p)
 ABC News
 ABC News (Australia)
-AXN
 Action Hollywood Movies
 Africa News (EU)
 Al Jazeera English
 Al-Jazeera English
-Animax(HK)
 Arirang Korea
 Astro AEC
 Astro AOD
@@ -126,6 +124,9 @@ NBC Sports NorthWest(NTD)
 NEW KPOP (EU)
 NHK WORLD JAPAN HD
 NHK World Premium 日本
+NOWTV PANDA
+NOW直播台
+NOW财经台
 Newsmax
 NickToons (720p)
 Nickelodeon
@@ -135,11 +136,9 @@ Ohio: Wheeling - Steubenville
 PHOENIX HK CHANNEL
 Pearl
 Planet Eat (EU)
-PopC
 PowerNation (EU)
 PowerNation Espanol (EU)
 Qyou India
-ROCK Action
 RT
 RT Documentary [ENG]
 RT [ESP]
@@ -172,7 +171,6 @@ TVB News Channel
 TVB PLUS
 TVB Plus
 TVB Plus TWN
-TVBS新聞
 TVB千禧经典
 TVB娱乐新闻台
 TVB星河
@@ -193,6 +191,7 @@ Turner Classic Movies (TCM) East (720p)
 UN Web TV
 Unbeaten
 Unreel (EU)
+VIU 6
 VIUTV
 ViuTV
 ViuTV TWN
@@ -209,8 +208,7 @@ World Poker Tour
 World Poker Tour (EU)
 YG TV (EU)
 Zoomoo 少儿
-tvN
-中天新闻台
+iNews 新闻台
 亚洲武侠
 八度空间
 凤凰中文
@@ -231,21 +229,17 @@ tvN
 澳视卫星
 澳视澳门
 澳门莲花电影
-無線新聞台
 爱奇艺
-緯來體育
+美亚电影
 美亚电影台
 美亚电影台TWN
-美亞電影台(HK)
 翡翠台
+翡翠台 backup
 翡翠台4K
 翡翠台TWN
 翡翠台北美版(TVB J1)
 耀才財經台 (576p)
 重温经典
-鳳凰中文
-鳳凰資訊
-鳳凰香港
 龙华偶像
 龙华卡通
 龙华戏剧
