@@ -27,10 +27,8 @@ Boomberg Quicktake (EU)
 CBS 11 Houston TX (KHOU) (1080p)
 CBS 9 Washington DC (WUSA) (1080p)
 CBS News
+CCTV13
 CCTV1港澳版
-CH5
-CH8
-CHU
 Caillou (ES)
 Caillou (FR)
 Cartoon Network 动漫
@@ -125,12 +123,22 @@ NEW KPOP (EU)
 NHK WORLD JAPAN HD
 NHK World Premium 日本
 NOWTV PANDA
+NOW新闻台
 NOW直播台
 NOW财经台
 Newsmax
 NickToons (720p)
 Nickelodeon
 Nickelodeon East (720p)
+Now星影
+Now爆谷
+Now英超1
+Now英超2
+Now英超3
+Now英超4
+Now英超5
+Now英超6
+Now英超粤语
 OFive
 Ohio: Wheeling - Steubenville
 PHOENIX HK CHANNEL
@@ -209,10 +217,10 @@ World Poker Tour (EU)
 YG TV (EU)
 Zoomoo 少儿
 iNews 新闻台
+五星体育
 亚洲武侠
 八度空间
 凤凰中文
-凤凰卫视
 凤凰资讯
 凤凰香港
 凤凰香港TWN
@@ -222,14 +230,25 @@ iNews 新闻台
 天映频道
 广东体育
 广东珠江
+无线亚剧
+无线亚综
+无线功夫
+无线华剧
+无线娱乐
+无线戏曲
 无线新闻台
 无线新闻台TWN
+无线粤片
+无线赛马
 明珠台
 明珠台TWN
+深圳卫视4K
+深圳财经生活
 澳视卫星
 澳视澳门
 澳门莲花电影
 爱奇艺
+第一财经
 美亚电影
 美亚电影台
 美亚电影台TWN
@@ -240,10 +259,4 @@ iNews 新闻台
 翡翠台北美版(TVB J1)
 耀才財經台 (576p)
 重温经典
-龙华偶像
-龙华卡通
-龙华戏剧
-龙华日韩
-龙华洋片
-龙华电影
-龙华经典
+黄金翡翠
