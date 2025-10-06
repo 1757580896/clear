@@ -1,6 +1,3 @@
-*HOY IBC
-*HOY Infotainment
-*HOY TV
 ABC 16 Wilkes Barre PA (WNEP) (1080p)
 ABC 8 Dallas TX (WFAA) (1080p)
 ABC News
@@ -31,11 +28,7 @@ CCTV13
 CCTV1港澳版
 Caillou (ES)
 Caillou (FR)
-Cartoon Network 动漫
-Cartoonito Southeast Asia (1080p)
 Channel News Asia
-China Central Television Channel 1 (CCTV-1)
-China Global Television Network Documentary (CGTN Documentary)
 Clarity 4K
 Clix (EU)
 Clubbing TV
@@ -45,7 +38,6 @@ DW English
 Dark Corners (EU)
 Denver 8 TV (Denver CO) (720p)
 Deutsche Welle (English)
-Discovery Asia
 Discovery Channel
 Drone TV (EU)
 ESPN
@@ -81,8 +73,6 @@ Insight TV R.O.W
 Inwild
 Inwonder
 Iran International
-J2
-Jade
 KBC(SBS 光州)
 KFMB CBS 8
 KTHV CBS 11 (Little Rock AR)
@@ -92,7 +82,6 @@ LOUPE 4K
 Level Up (EU)
 Love Nature 4K
 MBC
-MOVIE BOX
 MYZEN
 MYZEN (FR)
 Mav TV (EU)
@@ -141,8 +130,6 @@ Now英超6
 Now英超粤语
 OFive
 Ohio: Wheeling - Steubenville
-PHOENIX HK CHANNEL
-Pearl
 Planet Eat (EU)
 PowerNation (EU)
 PowerNation Espanol (EU)
@@ -150,8 +137,6 @@ Qyou India
 RT
 RT Documentary [ENG]
 RT [ESP]
-RTHK TV 31
-RTHK TV 32
 RTHK31
 RTHK31 TWN
 RTHK32
@@ -173,9 +158,6 @@ Sofy TV Spain
 Super Simple Songs (EU)
 TBS
 TBS East (1080p)
-TVB Finance Sports & Information Channel
-TVB J1
-TVB News Channel
 TVB PLUS
 TVB Plus
 TVB Plus TWN
@@ -201,10 +183,8 @@ Unbeaten
 Unreel (EU)
 VIU 6
 VIUTV
-ViuTV
 ViuTV TWN
 ViuTVSix TWN
-ViuTVsix
 WMAQ-DT1 NBC 5 (Chicago IL) (720p)
 WOLO-DT1 ABC 25 (Columbia SC) (720p)
 WZDX Fox 54 (Huntsville AL) (1080p)
@@ -216,7 +196,6 @@ World Poker Tour
 World Poker Tour (EU)
 YG TV (EU)
 Zoomoo 少儿
-iNews 新闻台
 五星体育
 亚洲武侠
 八度空间
@@ -246,14 +225,11 @@ iNews 新闻台
 深圳财经生活
 澳视卫星
 澳视澳门
-澳门莲花电影
 爱奇艺
 第一财经
-美亚电影
 美亚电影台
 美亚电影台TWN
 翡翠台
-翡翠台 backup
 翡翠台4K
 翡翠台TWN
 翡翠台北美版(TVB J1)
